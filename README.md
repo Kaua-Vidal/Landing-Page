@@ -6,7 +6,6 @@ Este projeto é uma Landing Page responsiva desenvolvida com HTML, CSS e JavaScr
 
 ![Preview da Landing Page](assets/img/preview.png)
 
-> 💡 Substitua `preview.png` por uma imagem real da página (salve na pasta `assets/img`).
 
 ## 🧰 Tecnologias Utilizadas
 
