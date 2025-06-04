@@ -15,6 +15,7 @@ Este projeto é uma Landing Page responsiva desenvolvida com HTML, CSS e JavaScr
 - JavaScript  
 
 ## 📁 Estrutura do Projeto
+```
 Landing-Page/
 ├── assets/
 │ ├── css/
@@ -25,7 +26,7 @@ Landing-Page/
 │ └── [imagens da página]
 ├── index.html
 └── README.md
-
+```
 
 ## 🖥️ Visualização
 
