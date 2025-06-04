@@ -46,7 +46,7 @@ Desenvolvido por **Kauã Vidal de Souza**
 Estudante de Ciência da Computação - UFPB (Campus IV)
 
 - GitHub: [@Kaua-Vidal](https://github.com/Kaua-Vidal)
-- Portfólio: [https://landing-page-kaua.netlify.app](https://landing-page-kaua.netlify.app)
+- Linkedin: [Kauã Vidal](www.linkedin.com/in/kauã-vidal-153774242)
 
 ## 📄 Licença
 
