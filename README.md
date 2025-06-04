@@ -1,4 +1,3 @@
-# Landing-Page
 # 🚀 Landing Page
 
 Este projeto é uma Landing Page responsiva desenvolvida com HTML, CSS e JavaScript. O objetivo é aprimorar as habilidades em desenvolvimento front-end, com foco em design moderno, responsividade e navegação fluida.
