@@ -1,72 +1,55 @@
 # Landing-Page
-🚀 Landing Page
-Este projeto é uma Landing Page responsiva desenvolvida com HTML, CSS e JavaScript, com o objetivo de aprimorar habilidades em desenvolvimento front-end e design responsivo.
-github.com
-+1
-github.com
-+1
+# 🚀 Landing Page
 
-📸 Demonstração
+Este projeto é uma Landing Page responsiva desenvolvida com HTML, CSS e JavaScript. O objetivo é aprimorar as habilidades em desenvolvimento front-end, com foco em design moderno, responsividade e navegação fluida.
 
-💡 Substitua preview.png por uma imagem real da página, localizada na pasta assets/.
-stackoverflow.com
+## 📸 Demonstração
 
-🧰 Tecnologias Utilizadas
-HTML5
+![Preview da Landing Page](assets/img/preview.png)
 
-CSS3
+> 💡 Substitua `preview.png` por uma imagem real da página (salve na pasta `assets/img`).
 
-JavaScript
-medium.com
-+7
-community.vercel.com
-+7
-github.com
-+7
-github.com
-+1
-medium.com
-+1
+## 🧰 Tecnologias Utilizadas
 
-📁 Estrutura do Projeto
-css
-Copiar
-Editar
+- HTML5  
+- CSS3  
+- JavaScript  
+
+## 📁 Estrutura do Projeto
 Landing-Page/
 ├── assets/
-│   ├── css/
-│   │   └── style.css
-│   ├── js/
-│   │   └── script.js
-│   └── img/
-│       └── [imagens]
+│ ├── css/
+│ │ └── style.css
+│ ├── js/
+│ │ └── script.js
+│ └── img/
+│ └── [imagens da página]
 ├── index.html
 └── README.md
-🖥️ Visualização
-Você pode visualizar a Landing Page ao vivo através do seguinte link:
 
-🔗 landing-page-kaua.netlify.app
 
-📌 Funcionalidades
-Layout responsivo para diferentes tamanhos de tela
+## 🖥️ Visualização
 
-Design moderno e intuitivo
+Você pode visualizar a Landing Page ao vivo clicando no link abaixo:
 
-Navegação suave entre seções
+🔗 [https://landing-page-kaua.netlify.app/](https://landing-page-kaua.netlify.app/)
 
-Compatibilidade com os principais navegadores
-github.com
-+1
-github.com
-+1
+## 📌 Funcionalidades
 
-🧑‍💻 Sobre o Desenvolvedor
-Desenvolvido por Kauã Vidal de Souza, estudante de Ciência da Computação na UFPB - Campus IV.
-github.com
+- Layout 100% responsivo  
+- Design moderno e agradável  
+- Scroll suave entre seções  
+- Compatibilidade com os principais navegadores  
 
-GitHub: @Kaua-Vidal
+## 👨‍💻 Autor
 
-Portfólio: landing-page-kaua.netlify.app
+Desenvolvido por **Kauã Vidal de Souza**  
+Estudante de Ciência da Computação - UFPB (Campus IV)
 
-📄 Licença
-Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais informações.
+- GitHub: [@Kaua-Vidal](https://github.com/Kaua-Vidal)
+- Portfólio: [https://landing-page-kaua.netlify.app](https://landing-page-kaua.netlify.app)
+
+## 📄 Licença
+
+Este projeto está licenciado sob a Licença MIT.  
+Consulte o arquivo `LICENSE` para mais informações.
